@@ -81,8 +81,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://www.facebook.com/ondrej.honus"
   
     [[params.social]]
-    name = "osu!"
-    url = "https://osu.ppy.sh/users/20503654"
+    name = "Anime list"
+    url = "https://docs.google.com/document/d/1IB2QDlfeHIpTMBi4qfK7iDSaPFWt2P55kIrlcEJgAv8/edit?usp=sharing"
   
 [menu]
 
