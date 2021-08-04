@@ -58,7 +58,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   
   [[params.social]]
     name = "instagram"
-    url = "https://www.instagram.com/0ndra_honuz/"
+    url = "https://www.instagram.com/ondrej.honus/"
     
    [[params.social]]
     name = "youtube"
@@ -67,10 +67,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     [[params.social]]
     name = "steam"
     url = "https://steamcommunity.com/id/hotovo/"
-    
-     [[params.social]]
-    name = "tellonym"
-    url = "https://www.tellonym.me/OndraHonus"
 
     [[params.social]]
     name = "twitter"
