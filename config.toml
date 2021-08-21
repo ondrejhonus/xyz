@@ -61,7 +61,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://www.instagram.com/ondrej.honus/"
     
    [[params.social]]
-    name = "spotify"
+    name = "123rf"
     url = "https://open.spotify.com/user/ondrasihonda"
     
     [[params.social]]
