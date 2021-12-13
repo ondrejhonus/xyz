@@ -79,7 +79,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     [[params.social]]
     name = "Anime list"
     url = "https://docs.google.com/document/d/1IB2QDlfeHIpTMBi4qfK7iDSaPFWt2P55kIrlcEJgAv8/edit?usp=sharing"
-  
+    
+    [[params.social]]
+    name = "osu""
+    url = "https://osu.ppy.sh/users/20503654"
 [menu]
 
   
